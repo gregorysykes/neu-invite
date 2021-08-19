@@ -1,6 +1,6 @@
-# money
+# neu-invite
 
-A new Flutter project.
+A Front End Application of a Trading App inspired by Neumorphism. The name "neu" is originated from "Neumorphism" and the "invite" is the company's broker code (IN). Created fully by Gregory James Moniaga, from the UI/UX design, to the Front End Product.
 
 ## Getting Started
 
